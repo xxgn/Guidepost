@@ -1,4 +1,19 @@
 site_name: HNU CSEE Guidepost
 
+repo_name: ' HNU-CSEE-Nuwa/HNU-CSEE-Guidepost'
+repo_url: 'https://github.com/HNU-CSEE-Nuwa/HNU-CSEE-Guidepost'
+
+nav:
+  - 简介:
+  - 课程:
+  - 升学:
+  - 工作:
+  - 比赛:
+  - Tips:
+
 theme:
   name: material
+  language: 'zh'
+  palette:
+    primary: 'black'
+    accent: 'red'
