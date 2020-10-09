@@ -4,12 +4,12 @@ repo_name: ' HNU-CSEE-Nuwa/HNU-CSEE-Guidepost'
 repo_url: 'https://github.com/HNU-CSEE-Nuwa/HNU-CSEE-Guidepost'
 
 nav:
-  - 简介:
-  - 课程:
-  - 升学:
-  - 工作:
-  - 比赛:
-  - Tips:
+  - 简介: intro/intro.md
+  - 课程: lecture/lecture.md
+  - 升学: postgraduate/postgraduate.md
+  - 工作: job/job.md
+  - 比赛: competition/competition.md
+  - Tips: tips/tips.md
 
 theme:
   name: material
