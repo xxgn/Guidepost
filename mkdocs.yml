@@ -53,8 +53,29 @@ nav:
       - 三年级夏季学期: lecture/cs/junior-summer.md
     - 物联网工程: lecture/cs/cs.md
     - 智能科学与技术: lecture/cs/cs.md
-    - 信息安全: lecture/cs/cs.md
-    - 信息安全（保密管理）: lecture/cs/cs.md
+    - 信息安全 / 保密管理: 
+      - 算法设计与分析: lecture/is/algorithm.md
+      - 计算机网络: lecture/is/computer-network.md
+      - 数据库系统: lecture/is/database-system.md
+      - 安全系统实验: lecture/is/security-system-experiment.md
+      - 信息安全数学基础: lecture/is/information-security-mathematics-foundation.md
+      - 保密技术基础A: lecture/is/secrecy-technology-foundation-A.md
+      - 密码学: lecture/is/cryptography.md
+      - 网络安全: lecture/is/network-security.md
+      - 信息系统安全: lecture/is/information-system-security.md
+      - 信息隐藏: lecture/is/information-hiding.md
+      - 软件安全: lecture/is/software-security.md
+      - 信息安全工程: lecture/is/information-security-engineering.md
+      - 可信计算系统: lecture/is/trusted-computing-system.md
+      - 信息内容安全: lecture/is/information-content-security.md
+      - 涉密信息管理系统: lecture/is/the-classified-information-system-management.md
+      - 保密技术基础B: lecture/is/secrecy-technology-foundation-B.md
+      - 保密管理概论: lecture/is/introduction-to-secrecy-management.md
+      - 保密法: lecture/is/secrecy-law.md
+      - 保密史与保密制度: lecture/is/secrecy-history-and-secrecy-system.md
+      - 机器学习: lecture/is/machine-learning.md
+      - 数据挖掘: lecture/is/data-mining.md
+      - 生物信息学: lecture/is/biological-information-science.md
     - 通信工程: lecture/cs/cs.md
     - 软件工程: lecture/cs/cs.md
     - 数字媒体技术: lecture/cs/cs.md
