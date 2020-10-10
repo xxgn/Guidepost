@@ -1,8 +1,8 @@
 site_name: Guidepost
 
-repo_name: 'HNU-CSEE-Guidepost'
+repo_name: 'HNU-CSEE-Nuwa/HNU-CSEE-Guidepost'
 repo_url: 'https://github.com/HNU-CSEE-Nuwa/HNU-CSEE-Guidepost'
-edit_uri: edit/master/docs/
+edit_uri: edit/main/docs/
 
 nav:
   - 简介:
