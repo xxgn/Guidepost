@@ -83,6 +83,10 @@ theme:
     text: 'Noto Sans'
     code: 'Source Code Pro'
 
+extra:
+  pagetime: 'on'
+  disqus: 'Guidepost'
+
 markdown_extensions:
   - admonition
   - codehilite:
