@@ -88,7 +88,6 @@ theme:
 plugins:
   - git-revision-date
 
-
 markdown_extensions:
   - admonition
   - codehilite:
