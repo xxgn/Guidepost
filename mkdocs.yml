@@ -2,6 +2,7 @@ site_name: Guidepost
 
 repo_name: 'HNU-CSEE-Guidepost'
 repo_url: 'https://github.com/HNU-CSEE-Nuwa/HNU-CSEE-Guidepost'
+edit_uri: edit/master/docs/
 
 nav:
   - 简介:
@@ -71,6 +72,7 @@ nav:
 
 theme:
   name: 'material'
+  # custom_dir: overrides
   language: 'zh'
   palette:
     primary: 'black'
@@ -83,9 +85,9 @@ theme:
     text: 'Noto Sans'
     code: 'Source Code Pro'
 
-extra:
-  pagetime: 'on'
-  disqus: 'Guidepost'
+plugins:
+  - git-revision-date
+
 
 markdown_extensions:
   - admonition
