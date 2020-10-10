@@ -1,19 +1,117 @@
-site_name: HNU CSEE Guidepost
+site_name: Guidepost
 
-repo_name: ' HNU-CSEE-Nuwa/HNU-CSEE-Guidepost'
+repo_name: 'HNU-CSEE-Guidepost'
 repo_url: 'https://github.com/HNU-CSEE-Nuwa/HNU-CSEE-Guidepost'
 
 nav:
-  - 简介: intro/intro.md
-  - 课程: lecture/lecture.md
-  - 升学: postgraduate/postgraduate.md
-  - 工作: job/job.md
-  - 比赛: competition/competition.md
-  - Tips: tips/tips.md
+  - 简介:
+    - 简介: intro/intro.md
+    - 贡献方法: intro/how-to-commit.md
+    # - 收录内容:
+  - 课程:
+    - 公共课程:
+      - 简介: lecture/general/intro.md
+      - 高等数学A: lecture/general/advanced-math.md
+      - 线性代数A: lecture/general/linear-algebra.md
+      - 普通物理A: lecture/general/physics.md
+      - 普通物理实验A: lecture/general/physics-experiment.md
+      - 大学英语: lecture/general/english.md
+      - 高等程序设计: lecture/general/advanced-programming.md
+      - 算法分析与设计: lecture/general/algorithm.md
+      - 计算机系统: lecture/general/computer-system.md
+      - 数据结构: lecture/general/data-structure.md
+      - 数字电路与逻辑设计: lecture/general/digital-circuits.md
+      - 离散数学: lecture/general/discrete-mathematic.md
+      - 数字系统实验: lecture/general/digital-system-experiment.md
+      - 程序设计实验: lecture/general/programming-experiment.md
+      - 一年级夏季学期: lecture/general/freshman-summer.md
+      - 二年级夏季学期: lecture/general/sophomore-summer.md
+    - 选修课: lecture/cs/cs.md
+    - 计算机科学: 
+      - 人工智能导论: lecture/cs/ai.md
+      - 操作系统: lecture/cs/os.md
+      - 计算机网络: lecture/cs/network.md
+      - 编译原理: lecture/cs/compiler.md
+      - 数据库原理: lecture/cs/db.md
+      - 软件工程: lecture/cs/software-engineering.md
+      - 计算理论导论: lecture/cs/computing-theory.md
+      - 高性能计算导论: lecture/cs/high-performance-computing.md
+      - 计算方法: lecture/cs/computing-methods.md
+      - 计算理论: lecture/cs/computing-theory-op.md
+      - 云计算技术: lecture/cs/cloud-computing-technology.md
+      - 社交网络分析: lecture/cs/social-network-analysis.md
+      - 机器学习: lecture/cs/ml.md
+      - 数据智能处理: lecture/cs/intelligent-processing-of-data.md
+      - 科学计算可视化: lecture/cs/scientific-computing-visualization.md
+      - 数据挖掘: lecture/cs/data-mining.md
+      - 路由与交换技术: lecture/cs/routing-and-switching-technology.md
+      - 分布式与云计算系统: lecture/cs/distributed-and-cloud-computing-system.md
+      - 计算机视觉系统: lecture/cs/computer-vision-system.md
+      - 软件设计模式: lecture/cs/software-design-patterns.md
+      - 高级数据库设计: lecture/cs/advanced-database-designing.md
+      - 三年级夏季学期: lecture/cs/junior-summer.md
+    - 物联网工程: lecture/cs/cs.md
+    - 智能科学与技术: lecture/cs/cs.md
+    - 信息安全: lecture/cs/cs.md
+    - 信息安全（保密管理）: lecture/cs/cs.md
+    - 通信工程: lecture/cs/cs.md
+    - 软件工程: lecture/cs/cs.md
+    - 数字媒体技术: lecture/cs/cs.md
+  - 升学:
+    - 推研: postgraduate/abroad/abroad.md
+    - 考研: postgraduate/exam/exam.md
+    - 出国: postgraduate/recommendation/recommendation.md
+  - 工作:
+    - 介绍: job/job.md
+  - 比赛: 
+    - 介绍: competition/competition.md
+  - Tips: 
+    - 介绍: tips/tips.md
+    - MacOS 解决方案: tips/macos.md
 
 theme:
-  name: material
+  name: 'material'
   language: 'zh'
   palette:
     primary: 'black'
     accent: 'red'
+  icon:
+    logo: 'material/school'
+  features:
+      - navigation.tabs
+  font:
+    text: 'Noto Sans'
+    code: 'Source Code Pro'
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.progressbar
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: math
+          class: arithmatex
+          format: !!python/name:pymdownx.arithmatex.fence_mathjax_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
