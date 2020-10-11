@@ -19,7 +19,6 @@ nav:
       - 大学英语: lecture/general/english.md
       - 高等程序设计: lecture/general/advanced-programming.md
       - 算法分析与设计: lecture/general/algorithm.md
-      - 计算机系统: lecture/general/computer-system.md
       - 数据结构: lecture/general/data-structure.md
       - 数字电路与逻辑设计: lecture/general/digital-circuits.md
       - 离散数学: lecture/general/discrete-mathematic.md
@@ -29,6 +28,7 @@ nav:
       - 二年级夏季学期: lecture/general/sophomore-summer.md
     - 选修课: lecture/cs/cs.md
     - 计算机科学: 
+      - 计算机系统: lecture/cs/computer-system.md
       - 人工智能导论: lecture/cs/ai.md
       - 操作系统: lecture/cs/os.md
       - 计算机网络: lecture/cs/network.md
