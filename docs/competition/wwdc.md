@@ -43,6 +43,6 @@ Apple 比赛介绍上一般都会说从 **创意**、**技术**、**其他材料
 
 * [WWDC Scholarship 指南](http://pjhubs.com/2020/02/12/wwdcscholar/)：19 年获奖者撰写的指南。
 * [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)：Apple 官方 UI 设计指南。
-* [斯坦福大学推出了基于 SwiftUI 的 iOS 编程课](https://www.bilibili.com/video/BV1EV411C77B?from=search&seid=14026600158556857484)：B 站课程。
+* [斯坦福大学推出了基于 SwiftUI 的 iOS 编程课](https://www.bilibili.com/video/BV1EV411C77B?from=search&seid=14026600158556857484)：B 站搬运课程。
 * [WWDC Students](https://github.com/wwdc)：每年获奖作品的合集，某些作品还带有视频演示，可以在里面找到灵感。
 * [WWDC20 Swift Student Challenge](https://developer.apple.com/wwdc20/swift-student-challenge/)：WWDC20 Swift Student Challenge 官网。
