@@ -87,6 +87,7 @@ nav:
     - 介绍: job/job.md
   - 比赛: 
     - 介绍: competition/competition.md
+    - Apple WWDC Student Scholarship: competition/wwdc.md
   - Tips: 
     - 介绍: tips/tips.md
     - MacOS 解决方案: tips/macos.md
