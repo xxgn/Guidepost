@@ -22,7 +22,7 @@
 
 ### Tips
 
-1. 在 commit 之前，你可以参考 [cloud-computing-technology.md](https://hnu-csee-nuwa.github.io/HNU-CSEE-Guidepost/lecture/cs/cloud-computing-technology/) 和 [macos.md](https://hnu-csee-nuwa.github.io/HNU-CSEE-Guidepost/tips/macos/) 的格式并且阅读 `md` 文档之中的注释。
+1. 在 commit 之前，你可以参考 [cloud-computing-technology.md](https://hnu-csee-nuwa.github.io/Guidepost/lecture/cs/cloud-computing-technology/) 和 [macos.md](https://hnu-csee-nuwa.github.io/Guidepost/tips/macos/) 的格式并且阅读 `md` 文档之中的注释。
 2. 请确保你分享的内容真实客观，并且不要发表任何不恰当的言论。
 3. 请尊重资源作者的版权，任何侵权内容将不会审核通过。
 4. 请保证你的文字资料或者代码没有侵犯其他人的著作权。
