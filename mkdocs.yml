@@ -80,9 +80,14 @@ nav:
     - 软件工程: lecture/cs/cs.md
     - 数字媒体技术: lecture/cs/cs.md
   - 升学:
-    - 推研: postgraduate/abroad/abroad.md
+    - 推研:
+      - 介绍: postgraduate/recommendation/recommendation.md
+      - 清华计科: postgraduate/recommendation/thu-cs.md
+      - 北大信科: postgraduate/recommendation/pku-eecs.md
+      - 北大软微: postgraduate/recommendation/pku-ss.md
+      - 联系方式: postgraduate/recommendation/contact.md
     - 考研: postgraduate/exam/exam.md
-    - 出国: postgraduate/recommendation/recommendation.md
+    - 出国: postgraduate/abroad/abroad.md
   - 工作:
     - 介绍: job/job.md
   - 比赛: 
